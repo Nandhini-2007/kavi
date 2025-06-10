@@ -1,0 +1,16 @@
+.style{
+    position: fixed;
+    bottom: 0%;
+    width: 90%;
+}
+.obj{
+    display: flex;
+    top: 0;
+    right: 0;
+    gap: 10px;
+    justify-content: space-evenly;
+    
+}
+li{
+    list-style: none;
+}
